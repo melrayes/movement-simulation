@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 1.333em;
+    font-weight: 600;
+    margin: 0 0 1.12528em
+}
+
+.app {
+    /*align-items:center;*/
+}
+
+.blocks {
+    width: 680px;
+    height: 680px;
+    align-items: center;
+    color: black;
+    float: none;
+    margin: 0 auto;
+    background-color: lightgray;
+
+}
+
+.actionBar {
+    width: 680px;
+    height: 680px;
+    align-items: center;
+    color: black;
+    float: none;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}
+
+.block {
+    perspective: 100;
+    padding: 5;
+    float: left;
+    margin: 5px;
+    list-style: none;
+    width: 120px;
+    height: 120px;
+    padding-left: 2px;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+}
+
+.north {
+    padding-left: 20px;
+    padding-top: 5px;
+    max-width: 110px;
+    max-height: 110px;
+}
+
+.east {
+    padding-top: 15px;
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.west {
+    padding-right: 5px;
+    padding-top: 15px;
+    max-width: 110px;
+    max-height: 120px;
+}
+
+.south {
+    padding-left: 20px;
+    padding-top: 5px;
+    max-width: 120px;
+    max-height: 110px;
+}
+
+.textFont {
+    color: black;
+    text-align: center;
+    padding-top: 35%;
+    size: 15px;
+}

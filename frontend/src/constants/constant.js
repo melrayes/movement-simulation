@@ -1,0 +1,1 @@
+export const EXECUTE_MOVE_SCRIPT = 'execute_move_script';
