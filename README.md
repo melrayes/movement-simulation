@@ -1,4 +1,4 @@
-# movement-simulator
+# movement-simulator [using Spring-Boot and ReactJS]
 
 A simple environment for a robot where we could control it using a predefined script consist of list of commands like:-
 
